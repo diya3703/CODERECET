@@ -82,15 +82,9 @@ Ctrl +C to exit the program
 
 
 
-### Diagrams
-Workflow(Add your workflow/architecture diagram here) Add caption explaining your workflow
+
 
 ## For Hardware:
-
-### Schematic & Circuit
-Circuit(Add your circuit diagram here) Add caption explaining connections
-Schematic(Add your schematic diagram here) Add caption explaining the schematic
-
 ### Build Photos
 
 Arduino UNO,HC-SR04 Sensor,Buzzer,USB Webcam,Laptop,Breadboard ,Jumper Wires  
