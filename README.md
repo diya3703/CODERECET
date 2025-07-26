@@ -135,10 +135,6 @@ Press the reset button on Arduino or unplug the USB.
 
 The final build of EchoEyes is a compact, wearable smart assistant designed to aid visually impaired individuals by converting visual and spatial information into sound. It integrates two main systems: a software module running on a laptop that uses a camera and AI-based object detection (YOLOv8) to identify objects and read them aloud using text-to-speech, and a hardware module built on Arduino that uses an ultrasonic sensor (HC-SR04) to detect nearby obstacles and alert the user through a buzzer. Together, these systems provide real-time awareness of surroundings, enabling users to safely and independently navigate environments with enhanced confidence and dignity.
 
-### Project Demo
-
-### Video
-[Add your demo video link here] Explain what the video demonstrates
 
 ## Team Contributions
 Ann Joy:Library Setup and Dependency Management.Object Detection Module,Voice Feedback
