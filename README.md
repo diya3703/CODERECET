@@ -1,7 +1,6 @@
 # CODERECET
 
 ## Project Repository
-*Commit and save your changes here*
 
 ### Team Name :Twync
 ### Team Members :Ann Joy and Diya Baby
